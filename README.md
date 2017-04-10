@@ -1,6 +1,7 @@
 # 2-6
 size(850,600);
 smooth();
+fill(163);
 beginShape();
 vertex(0,300);
 vertex(70,200);
@@ -15,6 +16,7 @@ vertex(120,450);
 vertex(50,400);
 vertex(0,300);
 endShape();
+fill(255);
 ellipse(720,200,200,200);
 fill(0);
 ellipse(750,190,20,20);
