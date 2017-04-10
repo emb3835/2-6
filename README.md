@@ -1,0 +1,20 @@
+# 2-6
+size(850,600);
+smooth();
+beginShape();
+vertex(0,300);
+vertex(70,200);
+vertex(600,200);
+vertex(670,320);
+vertex(600,450);
+vertex(550,550);
+vertex(500,450);
+vertex(220,450);
+vertex(170,550);
+vertex(120,450);
+vertex(50,400);
+vertex(0,300);
+endShape();
+ellipse(720,200,200,200);
+fill(0);
+ellipse(750,190,20,20);
